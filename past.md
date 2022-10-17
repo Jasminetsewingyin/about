@@ -19,7 +19,7 @@ layout: profile
 |**Reuben McKay** <br/><img src="./pics/people/Reuben McKay.JPG" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/reubenmckay/)|MRes|2021|
 |**Giada Sabatino** <br/><img src="./pics/people/Giada Sabatino.jpg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/giada-sabatino-77591b19b/)|MRes|2021|PhD, Hochschule für Life Sciences FHNW|
 |**Annika Ranta**|MSc|2021|
-|**Wing Yin ("Jasmine") Tse**|MSc|2021|
+|**Wing Yin ("Jasmine") Tse**|MSc|2021|class="myimga"><br/>[LinkedIn](www.linkedin.com/in/jasmine-tse-wing-yin)
 |**Mohammed ("Abid") Zaman**|MSc|2021|
 |**Shuoping Rao** <br/><img src="./pics/people/ShuopingRao.jpeg" class="myimga"><br/>[LinkedIn](https://www.linkedin.com/in/shuoping-rao-428995175/)|MSc|2021|Investment Analyst at K2 Venture|
 |**Hu Hong**|MSc|2021|
